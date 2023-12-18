@@ -1,4 +1,4 @@
-# Midterm App
+# BonusApp
 
 The BonusApp is designed for creating and managing reminders.
 
@@ -24,9 +24,6 @@ Potential extensions include:
 
 ## Notes
 
-Challenges encountered during the coding process included:
-  - Utilizing View Models
-  - Integrating the Room database.
 
 ## License
 
